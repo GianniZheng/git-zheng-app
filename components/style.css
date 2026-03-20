@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=LINE+Seed+JP&display=swap');
+
+#body {
+    margin: 0;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    flex-direction: column;
+}
+
+.banner {
+    width: 50%;
+    height: 200px;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: #b6b6b6;
+    font-family: "Iosevka Charon Mono", monospace;
+    border-radius: 2rem 0.1rem;
+}
+
+.banner:hover {
+    display: none;
+}
