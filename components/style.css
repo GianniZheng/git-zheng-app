@@ -12,7 +12,7 @@
 .banner {
     width: 50%;
     height: 200px;
-    background-color: #000000;
+    background-color: #f15e5e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,4 +24,9 @@
 
 .banner:hover {
     display: none;
+}
+
+.dark {
+    background-color: #000000;
+    color: #b6b6b6;
 }
