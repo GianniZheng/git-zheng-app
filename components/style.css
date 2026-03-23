@@ -17,12 +17,13 @@
     justify-content: center;
     align-items: center;
     font-size: 3rem;
-    color: #b6b6b6;
+    color: #000000;
     font-family: "Iosevka Charon Mono", monospace;
     border-radius: 2rem 0.1rem;
+    margin-bottom: 1rem;
 }
 
-.banner:hover {
+.hidden {
     display: none;
 }
 
