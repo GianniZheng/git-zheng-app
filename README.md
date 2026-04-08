@@ -7,3 +7,5 @@
 ### Esercizio 10: (HEAD detached at 18b8847)
 
 Esercizio 17 aspirapolvere
+
+Esercizio 18 aspirapolvere
