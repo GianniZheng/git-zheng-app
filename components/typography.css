@@ -15,3 +15,13 @@ p {
     line-height: 1.5;
     color: black;
 }
+
+a {
+    color: #5ef188;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: #4dc56f;
+    text-decoration: none;
+}
